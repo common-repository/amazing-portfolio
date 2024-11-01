@@ -1,0 +1,6 @@
+.col_full.apl-portfolio-single-image > a {
+    width: 700px;
+}
+.col_full.apl-portfolio-single-image > a img {
+    height: 600px;
+}
